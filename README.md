@@ -1,10 +1,10 @@
 # WeEagles
 Team WeEagles Astro Pi Competition 2021/2022
 Team members: 
- Wiktoria Dusza
- Antoni Moskal
- Kinga Moskal
- Julia Zegarowska
+ Wiktoria Dusza,
+ Antoni Moskal,
+ Kinga Moskal,
+ Julia Zegarowska,
   
 Mentor: Jadwiga Moskal
 
