@@ -1,0 +1,14 @@
+https://search.earthdata.nasa.gov/
+https://scihub.copernicus.eu/dhus/#/home
+https://earthexplorer.usgs.gov/
+https://coast.noaa.gov/dataviewer/#/landcover/search/
+https://worldview.earthdata.nasa.gov/
+
+https://land.copernicus.eu/global/products/ndvi
+https://api.arlula.com/catalog?gclid=EAIaIQobChMIqOfQ2JyR-AIVOEaRBR2jcgAVEAMYAyAAEgL75fD_BwE#user-menu-toggle
+
+
+https://earthexplorer.usgs.gov/ 
+ustawienia: 
+
+https://browser.creodias.eu/#lat=45.19&lng=-133.39&zoom=4
