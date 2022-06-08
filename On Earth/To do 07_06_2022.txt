@@ -1,0 +1,4 @@
+Cropped pictures has to be reworked to NDVi. Antek, please send when you finish.
+Historical NDVI pictures are avaible at address:
+https://browser.creodias.eu/#lat=45.19&lng=-133.39&zoom=4
+Use Sentinel-2 satelite.
